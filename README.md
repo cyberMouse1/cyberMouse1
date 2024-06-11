@@ -3,8 +3,8 @@ Hi 👋 My name is Cyber Mouse
 
 Ｎｏ ｏｎｅ ｋｎｏｗｓ ｗｈａｔ ｈｅ'ｓ ｄｏｉｎｇ.
 
-* 🌍  I'm based in Russia
-* 🧠  I'm learning React, Electron, Node.JS
+* 🌍  I'm based in . . .
+* 🧠  I'm learning . . .
 
 ### Skills
 
