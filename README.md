@@ -5,7 +5,7 @@ Hi 👋 My name is Cyber Mouse
 
 * 🌍  I'm based in Russia
 * 🧠  I'm learning C/C++
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a>
 
 ### Skills
 
