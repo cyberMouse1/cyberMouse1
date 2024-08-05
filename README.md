@@ -4,8 +4,7 @@ Hi 👋 My name is Cyber Mouse
 Ｎｏ ｏｎｅ ｋｎｏｗｓ ｗｈａｔ ｈｅ'ｓ ｄｏｉｎｇ.
 
 * 🌍  I'm based in Russia
-* 🧠  I'm learning C/C++
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a>
+* 🧠  I'm learning <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="20" height="20"/> </a> / <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> </a>
 
 ### Skills
 
