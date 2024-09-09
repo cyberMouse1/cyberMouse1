@@ -28,6 +28,6 @@ Hi 👋 My name is Cyber Mouse
 
 ### Badges
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=cyberMouse1&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="cybermouse1" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberMouse1&theme=dark&hide_border=true" alt="cybermouse1" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberMouse1&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="cybermouse1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberMouse1&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="cybermouse1"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cyberMouse1&theme=dark&hide_border=true" alt="cybermouse1"/></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberMouse1&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="cybermouse1"/></p>
