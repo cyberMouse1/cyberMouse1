@@ -28,4 +28,4 @@ Hi 👋 My name is Cyber Mouse
 
 ### Badges
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cybermouse1&show_icons=true&locale=en&layout=compact" alt="cybermouse1" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberMouse1&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="cybermouse1" /></p>
